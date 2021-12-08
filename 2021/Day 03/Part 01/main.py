@@ -1,5 +1,5 @@
 f = open("data.txt", "r")
-data = f.readlines();
+data = f.readlines()
 f.close()
 charCount = 12
 gamma = ""
